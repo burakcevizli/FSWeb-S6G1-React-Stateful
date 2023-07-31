@@ -48,7 +48,6 @@ export default function Kareler() {
     } else {
       setAktifKare(id);
     }
-    
   };
 
   return (
